@@ -30,3 +30,20 @@ or replace the above commands with
 [peter@armada freqrush]$ git commit -a
 
 (I hope it's right)
+
+ 
+[peter@armada freqrush]$ git add README.md 
+[peter@armada freqrush]$ git commit -m 'more editing of the 
+README.md 
+file'
+[master af4202f] more editing of the README.md file
+ 1 file changed, 27 insertions(+)
+[peter@armada freqrush]$ git push origin master
+Counting objects: 5, done.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 692 bytes, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/freqrush/freqrush
+   a51cbb6..af4202f  master -> master
+[peter@armada freqrush]$ 
+

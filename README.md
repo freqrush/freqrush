@@ -69,3 +69,10 @@ To https://github.com/freqrush/freqrush
 
 [peter@armada freqrush]$ 
 
+==Branches==
+
+* master holds this README.md file
+* gh-pages is empty on my laptop, visit the project pages at 
+http://freqrush.github.com/freqrush/
+
+

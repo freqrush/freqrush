@@ -1,5 +1,5 @@
-freqrush
-========
+freakrush
+=========
 
 My sandbox repository to try out things.
 
